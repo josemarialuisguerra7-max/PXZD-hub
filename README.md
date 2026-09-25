@@ -1,2 +1,0 @@
-# PXZD-hub
-Script.txt
